@@ -14,8 +14,6 @@
 
 ``cd gideon``
 
-``pip3 install requirements.txt``
-
 ``python gideon.py``
 
 # About:
